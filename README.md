@@ -1,5 +1,5 @@
 # HR-Dashboard-MySQL-PowerBI
-<img width="1384" height="799" alt="HR Report Dashboard" src="https://github.com/user-attachments/assets/60338a35-72c2-4c77-9c40-6328a9c1fa6f" />
+<img width="1348" height="751" alt="Screenshot 2025-10-20 004025" src="https://github.com/user-attachments/assets/a70fa30d-edcf-470d-8e85-7107d0fe868f" />
 
 # Data Used
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
