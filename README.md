@@ -1,10 +1,25 @@
 # HR-Dashboard-MySQL-PowerBI  
 <img width="1348" height="751" alt="Screenshot 2025-10-20 004025" src="https://github.com/user-attachments/assets/a70fa30d-edcf-470d-8e85-7107d0fe868f" />  
 
+## Project Overview  
+Developed an interactive **HR analytics dashboard** using **MySQL and Power BI** to analyze workforce data, employee demographics, and organizational trends.  
+The dashboard provides insights into **employee distribution, turnover, tenure, and workforce growth**, enabling better human resource decision-making.
+
+## Problem Statement  
+**Organizations often struggle to understand workforce dynamics due to scattered HR data and lack of centralized analysis.**  
+This project aims to clean, structure, and analyze HR data to provide clear insights into employee demographics, turnover rates, and workforce trends for strategic HR planning.
+
 ## Data Used  
 - **Data** – HR data with over **22,000 rows** from the year **2000 to 2020**.  
 - **Data Cleaning & Analysis** – MySQL Workbench  
 - **Data Visualization** – Power BI  
+
+## Objectives  
+1. Analyze employee demographics including gender, age, and ethnicity.  
+2. Evaluate workforce distribution across departments and locations.  
+3. Measure employee turnover and retention patterns.  
+4. Track workforce growth over time.  
+5. Build an interactive dashboard to support HR decision-making.  
 
 ## Questions  
 1. What is the gender breakdown of employees in the company?  
@@ -32,9 +47,25 @@
 - The net change in employees has increased over the years.  
 - The average tenure for each department is about 8 years, with Legal and Auditing having the highest, and Services, Sales, and Marketing having the lowest.  
 
+## Key Features  
+- Data cleaning and transformation using **MySQL queries**.  
+- Interactive **Power BI dashboard** for HR analytics.  
+- Visualizations covering **demographics, turnover, and workforce trends**.  
+- Clear and structured layout for easy insight extraction.  
+- Designed for **HR performance monitoring and strategic planning**.  
+
+## Outcomes  
+**This dashboard enables organizations to:**  
+- Understand employee demographics and workforce composition.  
+- Identify departments with high turnover and potential retention issues.  
+- Monitor workforce growth and hiring trends over time.  
+- Improve HR decision-making through data-driven insights.  
+
 ## Limitations  
 - Some records had negative ages and these were excluded during querying (**967 records**). Ages used were 18 years and above.  
 - Some term dates were far into the future and were not included in the analysis (**1,599 records**). The only term dates used were those less than or equal to the current date.  
+- Dataset may not include external factors such as economic conditions or company policies affecting turnover.  
+- Analysis is primarily descriptive and does not include predictive modeling.  
 
 ---
 
